@@ -3,7 +3,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## v0.2.1 - 2024-06-06
+## [0.2.1] - 2024-06-06
 - Update of survey and report data version information
 ### Added
 ### Fixed
@@ -13,14 +13,14 @@ All notable changes to this project will be documented in this file.
   - Allows us to re-publish survey and report without having to fully re-publish the Experience Builder application
 ### Removed
 
-## v0.2.0 - 2024-06-03
+## [0.2.0] - 2024-06-03
 - Broad beta release of Fast Tracker application
 ### Added
 ### Fixed
 ### Changed
 ### Removed
 
-## v0.1.0 - 2024-05-06
+## [0.1.0] - 2024-05-06
 - Limited beta release of Fast Tracker application
 ### Added
 ### Fixed
