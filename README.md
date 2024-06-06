@@ -5,6 +5,12 @@ The Fast Tracker screening tool is intended to facilitate discussions among pros
 
 NYC Planning welcomes feedback on Fast Tracker to improve its accuracy and usability. If you have any suggestions or encounter any issues while using the survey, [please send us feedback](https://survey.alchemer.com/s3/7821882/GFT-Fast-Tracker-Feedback). Your input is valuable as we strive to enhance our services. NYC Planning will not keep a copy of your survey report until it is formally submitted to us for eligibility review.
 
+## Application Version
+See [App Changelog](changelog.md)
+
+## Data Version
+Data version in the survey report associates the underlying Fast Tracker tax lot dataset to the corresponding MapPLUTO version. Use this number to validate reference dataset dates and versions which are listed in a supplementary table in ArcGIS Online and Open Data.
+
 ## Links
 [Fast Tracker Application](https://fasttracker.planning.nyc.gov/)
 
